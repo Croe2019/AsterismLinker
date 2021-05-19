@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Tree
+  - Field
+  - Bird
+  - Piece
+  - TailPiece
+  - BlockPiece
+  - Wind
+  - Stage
+  - Text
+  - Button
+  - Result
+  - Item
+  - Enemy
+  - Rezin
+  - Wall
+  - Obstance
+  - Time_count_up
+  - Gimic
+  - Bonus
+  - Goal
+  - Effect
+  - None
+  - semi
+  - chage
+  - chenge
+  - Destroy
+  - Small_Block
+  - Big_Block
+  - Choice
+  - No_Seed_Block
+  - No_Seed_Green_Block
+  - wall_sound
+  - Blue_Block
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Enemy
+  - Player
+  - Back
+  - None
+  - FrontLayer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: title
+    uniqueID: 2598512029
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGround
+    uniqueID: 2839018505
+    locked: 0
+  - name: FrontGround
+    uniqueID: 4065749103
+    locked: 0

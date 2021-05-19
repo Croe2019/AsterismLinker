@@ -1,0 +1,71 @@
+●タイトル　『Asterism Linker』
+
+●制作メンバー
+
+ゲームカレッジ2年
+　　　〇プランナー兼グラフィッカー : 加藤彩由季
+　　　〇プログラマー : 大塚芳徳、濱田広毅
+
+●バージョン 1.0.6
+
+●動作環境
+　・最低動作Androidスペック : 4.4
+　・最低動作iOSスペック     : 9.0
+　
+●開発環境
+　Unityバージョン 2017.2.0f3(64-bit)
+
+●使用エディター
+　VisualStudio2017 C#
+
+●制作期間
+　5カ月
+
+●担当箇所
+ 以下のファイルのスクリプトは全て私が担当しました。
+
+ AppUtil.cs
+ Bonus_Col.cs
+ ButterflyScr.cs
+ ButtonScr.cs
+ Circle_break.cs
+ Clamp.cs
+ Death.cs
+ Delete.cs
+ Description_Manager.cs
+ Effect_Death.cs
+ Effect_Move.cs
+ Ending_Manager.cs
+ Enemy
+ Enemy_Move.cs
+ Expect_Delete.cs
+ GameMainScr.cs
+ Gimic
+ Goal_Manager.cs
+ GridTest.cs
+ hit_multiple_times.cs
+ Lamp_text.cs
+ Light_Move.cs
+ Line.cs
+ MainCameraScr.cs
+ Manager.cs
+ Mission_Manager.cs
+ Now_Loading.cs
+ Obstance
+ Pauser.cs
+ Player
+ Renfe_hit.cs
+ Save_Load.cs
+ Seed_Life.cs
+ ShakeCamera.cs
+ SlasingEnemy.cs
+ Sound_Manager.cs
+ Stage.cs
+ StageScr.cs
+ StageSelectManager.cs
+ Stage_Controller.cs
+ Switch.cs
+ TitleManager.cs
+ Tutorial_Manager.cs
+ Wall_Gimic.cs
+ _Utility.cs

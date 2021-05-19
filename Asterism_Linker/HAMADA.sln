@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HAMADA", "HAMADA.csproj", "{A1C3DA54-D200-1EDF-060E-5A15A807D85E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HAMADA.Editor", "HAMADA.Editor.csproj", "{0B2C9D01-16CB-3C41-CB5A-519547B602BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1C3DA54-D200-1EDF-060E-5A15A807D85E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1C3DA54-D200-1EDF-060E-5A15A807D85E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1C3DA54-D200-1EDF-060E-5A15A807D85E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1C3DA54-D200-1EDF-060E-5A15A807D85E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B2C9D01-16CB-3C41-CB5A-519547B602BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B2C9D01-16CB-3C41-CB5A-519547B602BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B2C9D01-16CB-3C41-CB5A-519547B602BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B2C9D01-16CB-3C41-CB5A-519547B602BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
